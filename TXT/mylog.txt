@@ -2,11 +2,11 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC W00 020 L00 General, etc
-ZCZC W00 020 L01 SCELE/Discord related
+ZCZC W00 20 L00 General, etc
+ZCZC W00 20 L01 SCELE/Discord related
 ZCZC W00 200 L02 ZOOM Meeting
-ZCZC W00 015 L03 GitHub related
-ZCZC W00 010 L04 GitHub Pages related
-ZCZC W00 083 L05 Quiz related including studying
-ZCZC W00 060 L06 Books/GSGS related
-ZCZC W00 005 L30 Udacity: Visual Metaphor 1-3
+ZCZC W00 15 L03 GitHub related
+ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 83 L05 Quiz related including studying
+ZCZC W00 60 L06 Books/GSGS related
+ZCZC W00 5 L30 Udacity: Visual Metaphor 1-3
