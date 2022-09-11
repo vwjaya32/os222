@@ -1,7 +1,2 @@
 # os222
-### Operating Systems 2022-2
-
-
-[GitHub Page](https://vwjaya32.github.io/os222/) ---
-[myLOG](TXT/mylog.txt) ---
-[GitHub](https://github.com/vwjaya32/os222/)
+### Operating Systems 2022-2 (Odd Semester 22/23)
