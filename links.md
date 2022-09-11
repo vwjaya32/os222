@@ -4,18 +4,13 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://en.wikipedia.org/wiki/1)<br>
-StarBucks ipsum dolor J.CO Do Not!
-McD ipsum dolor Wendy's Burger King.
-KFC urna libero, in purus hana masa, sore wa tempura hokben.
+## W00
+1. [What is an Operating System as Fast As Possible](https://youtu.be/pVzRTmdd9j0)<br>
+A video by Linus Sebastian from Linus Tech Tips. 
+It's fun to watch and it gives you an initial insight into the operating system.
 
-2. [Two](https://en.wikipedia.org/wiki/2)<br>
-Sweet roll lollipop tootsie roll cheesecake marshmallow macaroon chocolate bar biscuit candy.
-Donut chocolate cake sugar plum icing dragée pie.
-Chocolate marzipan jelly-o soufflé donut pudding apple pie jelly beans.
+2. [Learn Git In 15 Minutes](https://youtu.be/USjZcfj8yxE)<br>
+An easy to follow along tutorial by Colt Steele.
+It teaches the use of git in a simple way.
 
-3. [Three](https://en.wikipedia.org/wiki/3)<br>
-Liquorice bonbon lemon drops marshmallow.
-Sweet roll gummies gummies jelly tiramisu chocolate fruitcake.
-Jelly chocolate jelly beans marzipan brownie bonbon muffin.
-
+## W01
