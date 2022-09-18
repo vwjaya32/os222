@@ -19,10 +19,10 @@ ZCZC W01 143 L11 Assignment #01
 ZCZC W01 60 L62 Install Virtual Debian Guest
 ZCZC W02 60 L00 General, etc
 ZCZC W02 200 L02 ZOOM Meeting
-ZCZC W02 15 L03 GitHub dan git related
-ZCZC W02 43 L05 Quiz related including studying
-ZCZC W02 20 L07 Demo related
-ZCZC W02 30 L08 OS Chat related with Friend
-ZCZC W02 180 L11 Assignment #02
+ZCZC W02 45 L03 GitHub dan git related
+ZCZC W02 63 L05 Quiz related including studying
+ZCZC W02 50 L07 Demo related
+ZCZC W02 40 L08 OS Chat related with Friend
+ZCZC W02 180 L12 Assignment #02
 ZCZC W02 60 L26 GnuPG
 ZCZC W02 100 L27 putty
