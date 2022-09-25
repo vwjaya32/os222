@@ -26,4 +26,14 @@ Video yang menarik untuk ditonton dan **memberikan pengetahuan umum terkait Sist
 
 2. 📼 [Basic File Encryption with GPG key pairs!](https://www.youtube.com/watch?v=DMGIlj7u7Eo)<br>
 **Video tutorial** yang menjelaskan secara singkat tentang cara untuk **enkripsi dan dekripsi data menggunakan GPG key**.  
- 
+
+## W03
+1. 📺 [Files & Files Systems](https://youtu.be/KN8YgJnShPM)<br>
+**Video** ini dibuat oleh CrashCourse untuk **menjelaskan secara singkat tentang _files_ dan _files systems_**.
+Video ini menarik dan memberikan motivasi untuk belajar mengenai _files_.  
+
+2. 🌍 [Contiguous vs Linked List vs Indexed Allocation](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
+**Situs web** ini akan menjelaskan **kelebihan dan kekurangan dari metode _file allocation Contiguous, Linked List, Indexed Allocation_**.  
+
+
+#### Success is not final; Failure is not fatal. - Winston Churchill

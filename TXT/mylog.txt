@@ -26,3 +26,9 @@ ZCZC W02 40 L08 OS Chat related with Friend
 ZCZC W02 180 L12 Assignment #02
 ZCZC W02 60 L26 GnuPG
 ZCZC W02 100 L27 putty
+ZCZC W03 160 L00 General, etc 
+ZCZC W03 100 L02 ZOOM Meeting
+ZCZC W03 60 L03 SCELE/Discord related
+ZCZC W03 83 L05 Quiz related including studying
+ZCZC W03 60 L08 OS Chat related with Friend
+ZCZC W03 80 L27 putty
