@@ -35,5 +35,17 @@ Video ini menarik dan memberikan motivasi untuk belajar mengenai _files_.
 2. 🌍 [Contiguous vs Linked List vs Indexed Allocation](https://www.geeksforgeeks.org/file-allocation-methods/)<br>
 **Situs web** ini akan menjelaskan **kelebihan dan kekurangan dari metode _file allocation Contiguous, Linked List, Indexed Allocation_**.  
 
+## W04
+1. 🌍 [Different Ways to Print in C](https://iq.opengenus.org/different-ways-to-print-in-c/)<br>
+**Situs web** ini menjelaskan **berbagai cara untuk mencetak _output_ dalam bahasa C**.  
+ 
+2. 🌍 [Format Specifiers in C](https://www.freecodecamp.org/news/format-specifiers-in-c/)<br>
+**Situs web** ini mendaftarkan **macam-macam _format specifier_(misal, %c) dalam bahasa C**.  
 
-#### Success is not final; Failure is not fatal. - Winston Churchill
+3. 🌍 [Makefile](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)<br>
+**Situs web** ini menjelaskan tentang berbagai cara membuat Makefile.  
+
+4. 🌍 [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
+**Situs web** ini akan menjelaskan beberapa **hal yang berkaitan dengan minggu ini**.  
+
+#### ==Success is not final; Failure is not fatal.== - Winston Churchill

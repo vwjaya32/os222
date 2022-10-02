@@ -32,3 +32,9 @@ ZCZC W03 60 L03 SCELE/Discord related
 ZCZC W03 83 L05 Quiz related including studying
 ZCZC W03 60 L08 OS Chat related with Friend
 ZCZC W03 80 L27 putty
+ZCZC W04 100 L00 General, etc
+ZCZC W04 100 L02 ZOOM Meeting
+ZCZC W04 60 L03 SCELE/Discord related
+ZCZC W04 88 L05 Quiz related (1 + 2) including studying
+ZCZC W04 30 L08 OS Chat related with Friend
+ZCZC W04 100 L27 putty
