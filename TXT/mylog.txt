@@ -38,3 +38,12 @@ ZCZC W04 60 L03 SCELE/Discord related
 ZCZC W04 88 L05 Quiz related (1 + 2) including studying
 ZCZC W04 30 L08 OS Chat related with Friend
 ZCZC W04 100 L27 putty
+ZCZC W05 160 L00 General, etc + Offline Lecture
+ZCZC W05 100 L02 ZOOM Meeting
+ZCZC W05 150 L03 SCELE/Discord related
+ZCZC W05 93 L05 Quiz related (01, 02) including studying
+ZCZC W05 30 L07 Demo related
+ZCZC W05 60 L08 OS Chat related with Friend
+ZCZC W05 120 L15 Assignment #05
+ZCZC W05 100 L27 putty
+ZCZC W05 30 L32 Youtube: watching OS related topics, etc.

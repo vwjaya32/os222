@@ -48,4 +48,16 @@ Video ini menarik dan memberikan motivasi untuk belajar mengenai _files_.
 4. 🌍 [Memory Management in Operating System](https://www.geeksforgeeks.org/memory-management-in-operating-system/)<br>
 **Situs web** ini akan menjelaskan beberapa **hal yang berkaitan dengan minggu ini**.  
 
-#### ==Success is not final; Failure is not fatal.== - Winston Churchill
+## W05
+1. 🌍 [Page Replacement Algorithms in Operating Systems](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)<br>
+**Situs web** ini akan menjelaskan tentang **algoritma _page replacement_ untuk sistem operasi yang menggunakan _paging_ untuk _memory management_-nya**.  
+
+2. 🌍 [Advantages and Disadvantages of various Page Replacement algorithms](https://www.geeksforgeeks.org/advantages-and-disadvantages-of-various-page-replacement-algorithms/?ref=rp)<br>
+Kalau kamu sudah melihat situs di atas. **Situs web** ini akan menjelaskan tentang **kelebihan dan kekurangan dari algoritma _page replacement_ di atas**.   
+
+3. 📺 [What is Virtual Memory?](https://youtu.be/2quKyPnUShQ)<br>
+Dalam **Video** dari Android Authority ini, Gary Sims akan **menjelaskan tentang Virtual Memory**.  
+Penjelasan dengan gambar serta lagu _background_ yang santai membuat pembelajaran menjadi seru.  
+
+</br>
+### Success is not final; Failure is not fatal. - Winston Churchill
