@@ -47,3 +47,12 @@ ZCZC W05 60 L08 OS Chat related with Friend
 ZCZC W05 120 L15 Assignment #05
 ZCZC W05 100 L27 putty
 ZCZC W05 30 L32 Youtube: watching OS related topics, etc.
+ZCZC W06 170 L00 General,etc + Offline Lecture 
+ZCZC W06 100 L02 ZOOM Meeting
+ZCZC W06 100 L03 SCELE/Discord related
+ZCZC W06 83 L05 Quiz related (01, 02) including studying
+ZCZC W06 45 L07 Demo related
+ZCZC W06 60 L08 OS Chat related with friend
+ZCZC W06 120 L15 Assignment #05
+ZCZC W06 100 L27 putty
+ZCZC W06 30 L32 Youtube: watching OS related topics, etc

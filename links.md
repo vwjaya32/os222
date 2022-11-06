@@ -56,8 +56,27 @@ Video ini menarik dan memberikan motivasi untuk belajar mengenai _files_.
 Kalau kamu sudah melihat situs di atas. **Situs web** ini akan menjelaskan tentang **kelebihan dan kekurangan dari algoritma _page replacement_ di atas**.   
 
 3. 📺 [What is Virtual Memory?](https://youtu.be/2quKyPnUShQ)<br>
-Dalam **Video** dari Android Authority ini, Gary Sims akan **menjelaskan tentang Virtual Memory**.  
+Dalam **video** dari Android Authority ini, Gary Sims akan **menjelaskan tentang Virtual Memory**.  
 Penjelasan dengan gambar serta lagu _background_ yang santai membuat pembelajaran menjadi seru.  
 
-</br>
+---
+
+### ==UTS WEEK==
+
+---
+
+## W06
+1. 🌍 [Finger Command with Examples](https://www.geeksforgeeks.org/finger-command-in-linux-with-examples/)<br>
+**Situs _GeeksForGeeks_ lain** yang menjelaskan tentang command `Finger` yang dipakai saat mengakses `@os1.ui.ac.id`.
+Anda juga dapat menemukan **cara membuat `Plan` di dalam situs ini**.  
+
+2. 📺  [Creating new processes with fork()!](https://youtu.be/ss1-REMJ9GA)<br>
+Jacob Sober membuat sebuah **video** yang menjelaskan pemahaman singkat mengenai _process_ dan _child proccess_ pada `fork()`.  
+Bahasa yang mudah dimengerti dan penjelasan menggunakan _code_ seharusnya membuat Anda yang masih kebingungan mengenai `fork()` menjadi lebih paham.  
+
+3. 🌍 [Difference between fork() and exec()](https://www.geeksforgeeks.org/difference-fork-exec/)<br>
+**Situs _GeeksForGeeks_ lainnya lagi** yang sekarang menjelaskan tentang perbedaan `fork()` dengan `exec()` yang sama-sama bertugas dalam membuat _process_.  
+
+
+<br>
 ### Success is not final; Failure is not fatal. - Winston Churchill
