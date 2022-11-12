@@ -77,6 +77,22 @@ Bahasa yang mudah dimengerti dan penjelasan menggunakan _code_ seharusnya membua
 3. 🌍 [Difference between fork() and exec()](https://www.geeksforgeeks.org/difference-fork-exec/)<br>
 **Situs _GeeksForGeeks_ lainnya lagi** yang sekarang menjelaskan tentang perbedaan `fork()` dengan `exec()` yang sama-sama bertugas dalam membuat _process_.  
 
+## W07
+1. 🌍 [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)<br>
+Melalui situs **_GeeksForGeeks_** ini, Anda akan mendapatkan pemahaman singkat mengenai topik pada minggu ke-7, seperti:  
+_race condition_, _critical section_, _Peterson's solution_, dan _semaphores_.  
+
+2. 📺 [Semaphores in C](https://youtu.be/YSn8_XdGH7c)<br>
+**Video dari CodeVault** ini akan memperlihatkan pada Anda tentang penggunaan _semaphores_ dalam pemrograman bahasa C.  
+Penjelasan yang disertai dengan _live coding_ membuat video ini cocok apabila Anda ingin menggali lebih dalam mengenai implementasi _semaphore_ dalam kode.
+
+3. 🌍 [Create tar.xz file in 1 command](https://stackoverflow.com/questions/18855850/create-a-tar-xz-in-one-command)<br>
+Mungkin seharusnya link ini muncul di minggu-minggu sebelumnya.  
+Yak, ngomong-ngomong, ini adalah hasil pencarian saya untuk cara membuat _file_`tar.xz`. Semoga dapat membantu 🙏.  
+
+4. 📺 [Dining Philosophers Problem](https://youtu.be/FYUi-u7UWgw)<br>
+Sebuah permasalahan yang berkaitan dengan sinkronisasi. Model permasalahan dengan cerita yang menarik ini dapat membantu Anda dalam memahami materi minggu 7.  
+ 
 
 <br>
 ### Success is not final; Failure is not fatal. - Winston Churchill
