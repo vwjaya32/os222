@@ -93,6 +93,24 @@ Yak, ngomong-ngomong, ini adalah hasil pencarian saya untuk cara membuat _file_`
 4. 📺 [Dining Philosophers Problem](https://youtu.be/FYUi-u7UWgw)<br>
 Sebuah permasalahan yang berkaitan dengan sinkronisasi. Model permasalahan dengan cerita yang menarik ini dapat membantu Anda dalam memahami materi minggu 7.  
  
+## W08
+1. 📺 [CPU Scheduling Basics](https://www.youtube.com/watch?v=Jkmy2YLUbUY)<br>
+Sebuah **video dari Jacob Sorber** yang akan menjelaskan sebagian besar materi _week_ ini, yaitu, _Scheduling_.  
+
+2. 📼 [Kernotex LFS Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+Sebuah **_playlist tutorial_** yang akan menjelaskan cara membuat Linux _From Scratch_ sangat membantu untuk _assignment week_ ini.
+PERCAYALAH INI SANGAT MEMBANTU.  
+
+
+---
+## Other Links
+#### Belajar
+1. [Active Recall](https://youtu.be/96VbRWUPAA0)<br>
+Sedang mencari cara terbaik untuk belajar.  
+
+#### Hiburan
+1. [Corridow Crew](https://www.youtube.com/@CorridorCrew/videos)<br>
+Seri _VFX Artist React_ dan _Stuntmen React_ sangat menghibur untuk ditonton.  
 
 <br>
 ### Success is not final; Failure is not fatal. - Winston Churchill
