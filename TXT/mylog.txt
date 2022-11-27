@@ -75,3 +75,13 @@ ZCZC W08 540 L18 Assignment #08
 ZCZC W08 60 L22 Linux CLI 
 ZCZC W08 100 L27 putty
 ZCZC W08 30 L32 Youtube: watching OS related topics, etc
+ZCZC W09 160 L00 General,etc + Offline Lecture
+ZCZC W09 90 L02 ZOOM Meeting
+ZCZC W09 80 L03 SCELE/Discord related
+ZCZC W09 33 L05 Quiz related (01, 02) including studying
+ZCZC W09 20 L07 Demo related
+ZCZC W09 60 L08 OS Chat related with friend
+ZCZC W09 300 L19 Assignment #09
+ZCZC W09 120 L22 Linux CLI
+ZCZC W09 300 L27 putty
+ZCZC W09 30 L32 Youtube: watching OS related topics, etc

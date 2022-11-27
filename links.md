@@ -101,6 +101,19 @@ Sebuah **video dari Jacob Sorber** yang akan menjelaskan sebagian besar materi _
 Sebuah **_playlist tutorial_** yang akan menjelaskan cara membuat Linux _From Scratch_ sangat membantu untuk _assignment week_ ini.
 PERCAYALAH INI SANGAT MEMBANTU.  
 
+## W09
+Untuk Anda yang masih melanjutkan Week ini dan seterusnya. Semangat :D
+<br>
+
+1. 🌍 [How to remove multiple files](https://linuxize.com/post/how-to-remove-files-and-directories-using-linux-command-line/)<br>
+**Situs** ini membantu saya memahami lebih lanjut mengenai penghapusan _file_ pada linux. Saya baru tahu _command_ untuk menghapus banyak _file_ dari sini.  
+
+2. 🌍 [LFS Highlight](https://osp4diss.vlsm.org/osp-128.html)<br>
+**Situs dari OS** yang berisikan _highlist video LFS Kernotex_. Sangat membantu kalau Anda tidak ingin menonton video Kernotex dari awal.  
+
+3. 📺 [Mass Storage Structure](https://www.youtube.com/watch?v=KMETs6ONOoI)<br>
+**Video** ini akan membantu menjelaskan materi minggu imi. Video ini menggunakan ilustrasi untuk membantu kamu memahami materi video.  
+
 
 ---
 ## Other Links
